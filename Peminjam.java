@@ -1,5 +1,5 @@
 package pbo_5;
-
+// @helmihy
 public class Peminjam {
     private String nama;
     private int umur;
@@ -22,6 +22,6 @@ public class Peminjam {
     public String getNoHP() {
         return noHP;
     }
-    
-    
+
 }
+// @helmihy
