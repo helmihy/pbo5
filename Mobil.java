@@ -1,5 +1,5 @@
 package pbo_5;
-
+// @helmihy
 public class Mobil {
     private String tipeMobil;
     private String nopol;
@@ -33,6 +33,5 @@ public class Mobil {
         this.status = status;
     }
     
-    
-    
 }
+// @helmihy
