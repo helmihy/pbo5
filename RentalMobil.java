@@ -1,5 +1,5 @@
 package pbo_5;
-
+// @helmihy
 public class RentalMobil {
     private Peminjam peminjam;
     private Mobil mobil;
@@ -23,6 +23,5 @@ public class RentalMobil {
         return lamaRental;
     }
     
-    
-    
 }
+// @helmihy
